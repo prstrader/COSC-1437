@@ -1,6 +1,6 @@
 // Programming Assignment 3
 // Programming Fundamentals II (COSC 1437)
-// Author: Gregory
+// Author: Gregory Ayala
 // Description: Reads employee records from a file, writes a formatted
 //              payroll report, then demonstrates stream-inspection
 //              functions and input-failure handling.
