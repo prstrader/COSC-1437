@@ -1,6 +1,6 @@
 // Programming Assignment 2
 // Programming Fundamentals II (COSC 1437)
-// Author: Gregory 
+// Author: Gregory Ayala
 // Description: Calculates weekly summer job pay with tax and bonus.
 
 // Setup
